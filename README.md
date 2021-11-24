@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently working on creating website
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning web front-end | website design
 - 👯 I’m looking to mentor on Web Development/Design
 - 🤔 I’m looking for help with front-end coding 
 - 📫 How to reach me:[mail](mailto:zvr@gold-mail.ru)
