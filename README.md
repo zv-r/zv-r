@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### 👋
+-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F5FF5A&multiline=true&height=80&lines=Hello%2C+my+name+is+Vadim!;I+just+started+learning+Frontend.)](https://git.io/typing-svg)
 <!--
 **zv-r/zv-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
