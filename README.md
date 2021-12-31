@@ -1,5 +1,7 @@
 ### 👋
--
+- https://linktr.ee/zvrhub
+- ![загруженное](https://user-images.githubusercontent.com/94652321/147800911-6b2381b0-e7f3-41db-9a28-9af2047f7365.png)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F5FF5A&multiline=true&height=80&lines=Hello%2C+my+name+is+Vadim!;I+just+started+learning+Frontend.)](https://git.io/typing-svg)
 <!--
 **zv-r/zv-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
