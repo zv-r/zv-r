@@ -1,7 +1,6 @@
-### 👋
+# ***🧑‍💻***
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F5FF5A&multiline=true&height=80&lines=Hello%2C+my+name+is+Vadim!;I+just+started+learning+Frontend.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23FF0750&size=33&center=true&vCenter=true&multiline=true&height=210&lines=%F0%9F%91%A5%23%23%23%F0%9F%9A%B8;Hello+Github!;My+name+is+Vadim%2C;%E2%99%BF%EF%B8%8F%D0%AF+%D0%B8%D0%B7%D1%83%D1%87%D0%B0%D1%8E+Frontend.%F0%9F%99%88;%E2%9C%85%23%23%23%E2%9C%85)](https://git.io/typing-svg)
 <!--
 **zv-r/zv-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +16,4 @@ Here are some ideas to get you started:
 - https://linktr.ee/zvrhub
 
 
-- ![загруженное](https://user-images.githubusercontent.com/94652321/147800911-6b2381b0-e7f3-41db-9a28-9af2047f7365.png)
+- ![загруженное](https://zvrhub.com/wp-content/uploads/2022/01/qr-e1642148834270.png)
