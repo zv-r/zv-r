@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning web front-end | website design
 - 👯 I’m looking to mentor on Web Development/Design
 - 🤔 I’m looking for help with front-end coding 
-- 📫 How to reach me:[mail](mailto:zvr@gold-mail.ru)
+- 📫 How to reach me: [mail](mailto:zvr@gold-mail.ru) <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<p align="center">
 
- [Social Archive](https://linktr.ee/zvrhub)
+ [Social Archive](https://linktr.ee/zvrhub)📌
