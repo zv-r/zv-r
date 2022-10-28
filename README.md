@@ -1,4 +1,5 @@
-[![Board Status](https://dev.azure.com/SMERCh/010764cf-a769-49c4-b209-e06b8a438141/b1a5c69e-0b98-4147-8c28-c5e8a837395d/_apis/work/boardbadge/35b975aa-a401-47bd-add0-90afeb38816a)](https://dev.azure.com/SMERCh/010764cf-a769-49c4-b209-e06b8a438141/_boards/board/t/b1a5c69e-0b98-4147-8c28-c5e8a837395d/Microsoft.RequirementCategory)
+<!-- [![Board Status](https://dev.azure.com/SMERCh/010764cf-a769-49c4-b209-e06b8a438141/b1a5c69e-0b98-4147-8c28-c5e8a837395d/_apis/work/boardbadge/35b975aa-a401-47bd-add0-90afeb38816a)](https://dev.azure.com/SMERCh/010764cf-a769-49c4-b209-e06b8a438141/_boards/board/t/b1a5c69e-0b98-4147-8c28-c5e8a837395d/Microsoft.RequirementCategory) 
+-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Frijole&color=%234E18FF&size=28&center=true&vCenter=true&multiline=true&width=540&height=210&lines=%F0%9F%91%A5%23%23%23%F0%9F%9A%B8;Hello+Github!;My+name+is+Vadim%2C;%F0%9F%9A%80+I'm+learning+Front-end.%F0%9F%99%88;%E2%9C%85%23%23%23%E2%9C%85)](https://linktr.ee/zvrhub)
 
 
