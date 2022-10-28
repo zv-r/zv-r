@@ -4,7 +4,12 @@
 
 
 <a href="https://app.daily.dev/zvrhub"><img src="https://api.daily.dev/devcards/8a3542eb2ee34f7faa9183f6acf8d6f2.png?r=d6x" width="400" alt="Vadi_hub's Dev Card"/></a>  
- 
+<a href="https://zvr.ink"><img src="https://share.creavite.co/BIew9JbAHCQdoONu.gif?r=d6x" width="400" alt="Vadi_hub's Dev Card"/></a> 
+
+
+<!--
+[![GitHub Streak](https://github.com/zv-r)<img src="https://share.creavite.co/BIew9JbAHCQdoONu.gif" width="400px">
+--> 
 
 ____
 
