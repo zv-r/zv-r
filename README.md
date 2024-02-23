@@ -2,6 +2,13 @@
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Frijole&color=%234E18FF&size=28&center=true&vCenter=true&multiline=true&width=540&height=210&lines=%F0%9F%91%A5%23%23%23%F0%9F%9A%B8;Hello+Github!;My+name+is+Vadim%2C;%F0%9F%9A%80+I'm+learning+Front-end.%F0%9F%99%88;%E2%9C%85%23%23%23%E2%9C%85)](https://linktr.ee/zvrhub)
 
+👋 Selftaught Accessibility & Frontend Developer 
+
+💻 Dev & UX Accessibility Specialist 
+
+🐱‍👤Improving the world with accessible web content 
+
+✍️ Content searching
 
 <a href="https://zvr.ink"><img src="https://share.creavite.co/BIew9JbAHCQdoONu.gif?r=d6x" width="400" alt="Vadi_hub's Dev Card"/></a> 
 
