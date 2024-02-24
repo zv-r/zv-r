@@ -10,7 +10,7 @@
 
 ✍️ Content searching
 
-<a href="https://zvr.ink"><img src="https://share.creavite.co/BIew9JbAHCQdoONu.gif?r=d6x" width="400" alt="Vadi_hub's Dev Card"/></a> 
+<a href="http://СвятыеСосочки.рф"><img src="https://share.creavite.co/65d939e0c218bea4a1204983.gifr=d6x" width="400" alt="Vadi_hub's Dev Card"/></a> 
 
 <a href="https://app.daily.dev/zvrhub"><img src="https://api.daily.dev/devcards/8a3542eb2ee34f7faa9183f6acf8d6f2.png?r=d6x" width="400" alt="Vadi_hub's Dev Card"/></a>  
 
