@@ -6,9 +6,10 @@
 
 💻 Dev & UX Accessibility Specialist 
 
-🐱‍👤Improving the world with accessible web content 
+🐱‍👤 Improving the world with accessible web content 
 
-✍️ Content searching
+👀 Surfing the Internet, 
+Searching for useful services/programs/resources.
 
 <a href="http://СвятыеСосочки.рф"><img src="https://share.creavite.co/65d939e0c218bea4a1204983.gifr=d6x" width="400" alt="Vadi_hub's Dev Card"/></a> 
 
